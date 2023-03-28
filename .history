@@ -1,0 +1,20 @@
+cat new.txt | head -7 | tail -5
+cat main.c | head -7 | tail -5 | head -3
+clear
+cat < main.c | wc -l > lines.txt
+clear
+ls
+ls- l
+ls -l
+cat new.txt | ls
+ls > out.txt
+vim out.txt
+cat new.txt 
+jobs
+gedit &
+fg 4
+bg 4
+sig 4 9
+sig 1 9
+jobs
+clear
